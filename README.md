@@ -35,18 +35,30 @@ Pay attention to the colors and element spacing. Also note the address and text 
 
 ## Linux
 
+
 _stell einen neuen ordner "linuxBlog", und drin die Dateien index.html, index.css, second.css und index.js_
+
 _öffne den Directory mit CVS_
+
 _nenn index.css auf main.css um_
+
 _start git in der Directory und push das zu github_
+
 _stellt Boilerplate in index.html_
+
 _stellt mehrere Kopien index.html mit den Namen about.html contact.html singlePost.html_
+
 _lösch den second.js_
+
 _stell einen Directory Namens app_
+
 _bewegt den index.js auf app_
+
 _stell eine Kopie index.js unter den Namen server.js_
+
 _löscht den Directory app_
 
 auf den externen Terminal
 _öffne die Hilfe für nano_
+
 _mach index.css mit nano auf und füg den Befehl p {color : red}; ein_
