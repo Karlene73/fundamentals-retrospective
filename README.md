@@ -61,4 +61,6 @@ _löscht den Directory app_
 auf den externen Terminal
 _öffne die Hilfe für nano_
 
-_mach index.css mit nano auf und füg den Befehl p {color : red}; ein_
+_mach index.css mit nano auf und füg den Befehl p {color : red}; ein_# fundamentals-retrospective
+# fundamentals-retrospective
+# fundamentals-retrospective
