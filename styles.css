@@ -1,0 +1,55 @@
+/* In your styles.css file */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4; /* Light gray background for the page */
+}
+
+.container {
+    width: 60%; /* Or adjust to what looks best for your screen */
+    margin: 20px auto; /* Centers the container horizontally and adds vertical space */
+    padding: 20px;
+    box-sizing: border-box; /* Ensures padding is included in the width */
+    background-color: #fff; /* White background for the content area */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for visual separation */
+}
+
+h1, h2 {
+    color: #000080; /* Dark blue color for headings */
+    margin-bottom: 15px;
+}
+
+p {
+    line-height: 1.6;
+    margin-bottom: 10px;
+}
+
+/* Styles for the code section */
+.code-section pre {
+    background-color: #eee; /* Light grey background for the code block */
+    padding: 15px;
+    border-radius: 5px;
+    overflow-x: auto; /* For long lines of code */
+}
+
+/* For the specific .highlight class if you intend to use it */
+.highlight {
+    background-color: yellow; /* As seen in your snippet */
+    /* You might want to define color here too if it's not inherited */
+    color: black; /* Or whatever makes sense against yellow background */
+}
+
+/* Adjustments for the image if needed */
+.images-section img {
+    display; block;
+    margin-bottom: 20px;
+    max-width: 100%;
+    height: auto;
+}
+
+/*You might also want to add some margin to sections for spacing*/
+section {
+    margin-bottom: 30px; /* Example space between sections */
+} 
